@@ -13,5 +13,8 @@
  * one of the existing classes, change the image references by one of the existing classes, or make your
  * own class. Then you must make sure the html container reference your desired class.
  * Many changes to the skeleton of the website can be made in front-page.php and header.php.
+ 
+## Getting Started
+Copy this project into a folder in your WordPress theme folder and from your WordPress dashboard one should be able to select Test Theme and apply it to your pages. Your front page will automatically default to the front-page.php
 
     
