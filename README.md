@@ -1,4 +1,4 @@
-===TestTheme===
+## =TestTheme=
     Theme Name: Test Theme
     Author: Steven Seung
     Author URI: https://github.com/qedseung
@@ -6,7 +6,7 @@
     License: GNU General Public License v2 or later
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
     
-==Customization===
+## =Customization=
  * Much customization can be done here in the style section with a little knowlegde of html and css.
  * As of the creation of this theme front-page.php and tempo.php only use these parallax background images.
  * These backgrounds are available to any page, to change the background images you may either reference 
