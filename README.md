@@ -17,4 +17,5 @@
 ## Getting Started
 Copy this project into a folder in your WordPress theme folder and from your WordPress dashboard one should be able to select Test Theme and apply it to your pages. Your front page will automatically default to the front-page.php
 
-    
+### See the Deployed Website
+Checkout the website at http://www.crystalkan.com/
